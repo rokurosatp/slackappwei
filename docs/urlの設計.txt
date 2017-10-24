@@ -1,0 +1,6 @@
+■ urlの設計
+
+/apis
+    /tutor
+        /button-pushed
+        /slash-show-button
