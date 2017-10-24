@@ -9,6 +9,8 @@
 * [django Document](https://docs.djangoproject.com/en/1.11/intro/)
 * [Message Buttons With NodeJs](https://api.slack.com/tutorials/intro-to-message-buttons)
 
+* [django request/response reference](https://docs.djangoproject.com/en/1.11/ref/request-response/)
+
 ## Djangoプロジェクトの作り方
 ---
 
