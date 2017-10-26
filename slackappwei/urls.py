@@ -17,6 +17,6 @@ from django.conf.urls import include, url
 from django.contrib import admin
 
 urlpatterns = [
-    url(r'^apis/command_tutor/', include('command_tutor.urls')),
+    url(r'^apis/', include('command_tutor.urls')),
     url(r'^admin/', admin.site.urls),
 ]
